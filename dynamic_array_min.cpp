@@ -1,8 +1,6 @@
 /*
 Author: Sibongile Matshona
-Date:
-Instructor: Suleyman Olcay Polat
-Description: This program creates a dynamic array, stores values, and finds the minimum value using a func>
+Description: This program creates a dynamic array, stores values, and finds the minimum value using a function
 */
 
 /* Function: minVal
